@@ -1,0 +1,25 @@
+.upper{
+    width: 600px;
+    height: 300px;
+    border:6px solid black;
+
+}
+
+
+.a, .b, .c{
+    height:100px ;
+    width: 600px;
+    position:relative;
+}
+.a{
+    background-color: #F5B312;
+
+}
+
+.b{
+    background-color: #006742;
+}
+
+.c{
+    background-color: #BB262C;
+}
